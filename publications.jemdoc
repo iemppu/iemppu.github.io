@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+
+
+. Yi Xu, *Yan Yan*, Qihang Lin, Tianbao Yang. Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than O(1/$\epsilon$). In /Neural Information Processing Systems (NIPS)/ 2016. [[https://arxiv.org/pdf/1607.03815v1.pdf pdf]]
+. *Yan Yan*, Feiping Nie, Wen Li, Chenqiang Gao, Yi Yang, Dong Xu. Image Classification by Cross-Media Active Learning with Privileged Information. /IEEE Transactions on Multimedia (TMM)/ 2016, accepted. [[http://ieeexplore.ieee.org/document/7552533/ pdf]]
+. *Yan Yan*, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang. Robust Semi-supervised Learning through Label Aggregation. In /Thirtieth Conference on Artificial Intelligence (AAAI)/ 2016. [[http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12312 pdf]] [[rossel.zip code]]
+. Mingkui Tan, *Yan Yan*, Li Wang, Anton Van Den Hengel, Ivor W. Tsang, Qinfeng (Javen) Shi. Learning Sparse Confidence-Weighted classifier on Very High Dimensional Data. In /Thirtieth Conference on Artificial Intelligence (AAAI)/ 2016. [[http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12329/11845 pdf]]
+. *Yan Yan*, Mingkui Tan, Ivor W. Tsang, Yi Yang, Chengqi Zhang and Qinfeng Shi. Scalable Maximum Margin Matrix Factorization by Active Riemannian Subspace Search. In /International Joint Conference on Artificial Intelligence (IJCAI)/ 2015. [[http://www.ijcai.org/Proceedings/15/Papers/560.pdf pdf], [https://github.com/iemppu/arss code]]
+. Yahong Han, Yi Yang, *Yan Yan*, Zhigang Ma, Nicu Sebe and Xiaofang Zhou. Semi-Supervised Feature Selection via Spline Regression for Video Semantic Recognition. /IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS)/ 2015.
+. Xingzhong Du, *Yan Yan*, Pingbo Pan, Guodong Long and Lei Zhao. Multiple Graph Unsupervised Feature Selection. /Signal Processing Journal/ 2014.
+. *Yan Yan*, Gaowen Liu, Sen Wang, Jian Zhang and Kai Zheng. Graph-Based Clustering and Ranking for Diversified Image Search. /Multimedia Systems Journal/ 2014.
+. Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang and *Yan Yan*. Hybrid Heterogeneous Transfer Learning through Deep Learning. In /Twenty-Eighth Conference on Artificial Intelligence (AAAI)/ 2014
+
+
+
+
