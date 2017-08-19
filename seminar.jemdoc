@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{seminar.html}
+= Seminars@UTS
+
+Tentative Seminars:
+
+Time: 11:00AM AEST, Every Sunday
+
+Location: Metting Room@CAI in Building 11 UTS
+
+~~~
+{}{table}{Seminar Schedule}
+Date         |   Title/Topic  |  Speaker  ||
+20 Aug 2017  | Implimentation of basic RL algorithms: Dynamic programming, Monte Carlo, Temporal Difference and DQN  | Peike Li  ||
+20 Aug 2017  | [https://arxiv.org/abs/1702.07944 Stochastic Variance Reduction Methdos for Policy Evaluation]                |  Yan Yan  
+~~~
+
+
+
+
+
