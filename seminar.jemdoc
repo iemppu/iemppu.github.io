@@ -11,7 +11,9 @@ Location: Metting Room@CAI in Building 11 UTS
 {}{table}{Seminar Schedule}
 Date         |   Title/Topic  |  Speaker  ||
 20 Aug 2017  | Implimentation of basic RL algorithms: Dynamic programming, Monte Carlo, Temporal Difference and DQN  | Peike Li  ||
-20 Aug 2017  | [https://arxiv.org/abs/1702.07944 Stochastic Variance Reduction Methdos for Policy Evaluation]                |  Yan Yan  
+20 Aug 2017  | [https://arxiv.org/abs/1702.07944 Stochastic Variance Reduction Methdos for Policy Evaluation]                |  Yan Yan ||
+27 Aug 2017  | [https://arxiv.org/abs/1406.6247 Recurrent Models of Visual Attention]  |  Hehe Fan
+27 Aug 2017  | A Light Touch on Introduction to Reinforcement Learning  |  Linchao Zhu
 ~~~
 
 
