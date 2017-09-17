@@ -9,12 +9,17 @@ Location: Metting Room@CAI in Building 11 UTS
 
 ~~~
 {}{table}{Seminar Schedule}
-Date         |   Title/Topic  |  Speaker  ||
-20 Aug 2017  | Implimentation of basic RL algorithms: Dynamic programming, Monte Carlo, Temporal Difference and DQN  | Peike Li  ||
-20 Aug 2017  | [https://arxiv.org/abs/1702.07944 Stochastic Variance Reduction Methdos for Policy Evaluation]   [https://www.dropbox.com/s/815jbvky4cij0sm/ICML2017_SVRG_for_policy_evaluation.pptx?dl=0 \[Slides\]]      |  Yan Yan ||
-27 Aug 2017  | [https://arxiv.org/abs/1406.6247 Recurrent Models of Visual Attention]  |  Hehe Fan  ||
-27 Aug 2017  | A Light Touch on Introduction to Reinforcement Learning  |  Linchao Zhu  ||
-3 Sept 2017  | [http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf  Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning] |  Xuanyi Dong
+No  | Date         |   Title/Topic  |  Speaker  ||
+1   | 20 Aug 2017  | Implimentation of basic RL algorithms: Dynamic programming, Monte Carlo, Temporal Difference and DQN  | Peike Li  ||
+2   | 20 Aug 2017  | [https://arxiv.org/abs/1702.07944 Stochastic Variance Reduction Methdos for Policy Evaluation]   [https://www.dropbox.com/s/815jbvky4cij0sm/ICML2017_SVRG_for_policy_evaluation.pptx?dl=0 \[Slides\]]      |  Yan Yan ||
+3   | 27 Aug 2017  | [https://arxiv.org/abs/1406.6247 Recurrent Models of Visual Attention]  |  Hehe Fan  ||
+4   | 27 Aug 2017  | A Light Touch on Introduction to Reinforcement Learning  |  Linchao Zhu  ||
+5   | 3 Sept 2017  | [http://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf  Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning] \[[https://sites.google.com/view/cvpr2017-adnet Project page], [https://github.com/hellbell/ADNet Github], [https://www.dropbox.com/s/46re27q4y9lmx7y/RL-Tracking.pdf?dl=0 Slides]\] |  Xuanyi Dong  ||
+6   | 3 Sept 2017  | [https://arxiv.org/abs/1703.01161 FeUdal Networks for Hierarchical Reinforcement Learning] \[[https://github.com/dmakian/feudal_networks Github], [https://www.dropbox.com/s/053qtwhygyt71ig/FeUdal%20Networks%20for%20Hierachical%20Reinforcement%20Learning.pdf?dl=0 Slides]\]  |  Guoliang Kang  ||
+7   | 10 Sept 2017 |  [http://proceedings.mlr.press/v48/hardt16.pdf Train faster, generalize better: Stability of stochastic gradient descent] [https://arxiv.org/abs/1509.01240 \[Arxiv\]]  |  Hu Zhang  ||
+8   | 10 Sept 2017 |  Implementation of policy-based RL algorithms  |  Peike Li ||
+9   | 17 Sept 2017 |  [https://arxiv.org/pdf/1703.06585.pdf Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning] \[[https://visualdialog.org/ Dialog Demo]\]  |  Hehe Fan  ||
+10  | 17 Sept 2017 |  [http://proceedings.mlr.press/v70/bello17a.html Neural Optimizer Search with Reinforcement Learning]  |  Yan Yan
 ~~~
 
 
