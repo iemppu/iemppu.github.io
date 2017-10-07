@@ -24,9 +24,7 @@ No  | Date         |   Title/Topic  |  Speaker  ||
 12  | 24 Sept 2017 |  [https://arxiv.org/abs/1702.08591 The Shattered Gradients Problem: If resnets are the answer, then what is the question?] \[ [https://www.dropbox.com/s/6tmr9rqbkx3q880/The_Shattered_Gradients_Problem_Guoliang_Kang.pdf?dl=0 Slides] \]  |  Guoliang Kang  ||
 13  | 1 Oct 2017   |  [https://arxiv.org/abs/1502.05477 Trust Region Policy Optimization]  |  Peike Li  ||
 14  | 1 Oct 2017   |  [https://arxiv.org/abs/1612.00563 Self-critical Sequence Training for Image Captioning] \[[https://www.dropbox.com/s/r57emxnj06fmulh/Self-critical.pdf?dl=0 Slides]\]  |  Jiaxu Miao   ||
-15  | 7 Oct 2017   |  [https://arxiv.org/abs/1510.00149 Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding] 
-                     
- [https://arxiv.org/abs/1703.00810 Opening the Black Box of Deep Neural Networks via Information], \[[https://www.dropbox.com/s/4b4owhuizeqi4mw/20171008_Seminar_YangHe.pdf?dl=0 Slides]\] |  Yang He  ||
+15  | 7 Oct 2017   |  [https://arxiv.org/abs/1510.00149 Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding] + [https://arxiv.org/abs/1703.00810 Opening the Black Box of Deep Neural Networks via Information], \[[https://www.dropbox.com/s/4b4owhuizeqi4mw/20171008_Seminar_YangHe.pdf?dl=0 Slides]\] |  Yang He  ||
 16  | 7 Oct 2017   |  [https://arxiv.org/abs/1703.10593 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] \[[https://github.com/junyanz/CycleGAN Github], [https://junyanz.github.io/CycleGAN/ Project Page]\]  |   Zhedong Zheng
 ~~~
 
