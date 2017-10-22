@@ -25,7 +25,8 @@ No  | Date         |   Title/Topic  |  Speaker  ||
 13  | 1 Oct 2017   |  [https://arxiv.org/abs/1502.05477 Trust Region Policy Optimization]  |  Peike Li  ||
 14  | 1 Oct 2017   |  [https://arxiv.org/abs/1612.00563 Self-critical Sequence Training for Image Captioning] \[[https://www.dropbox.com/s/r57emxnj06fmulh/Self-critical.pdf?dl=0 Slides]\]  |  Jiaxu Miao   ||
 15  | 8 Oct 2017   |  [https://arxiv.org/abs/1510.00149 Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding] + [https://arxiv.org/abs/1703.00810 Opening the Black Box of Deep Neural Networks via Information] \[[https://www.dropbox.com/s/4b4owhuizeqi4mw/20171008_Seminar_YangHe.pdf?dl=0 Slides]\] |  Yang He  ||
-16  | 8 Oct 2017   |  [https://arxiv.org/abs/1703.10593 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] \[[https://github.com/junyanz/CycleGAN Github], [https://junyanz.github.io/CycleGAN/ Project Page]\]  |   Zhedong Zheng
+16  | 8 Oct 2017   |  [https://arxiv.org/abs/1703.10593 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] \[[https://github.com/junyanz/CycleGAN Github], [https://junyanz.github.io/CycleGAN/ Project Page]\]  |   Zhedong Zheng  ||
+17  | 22 Oct 2017  |  [https://arxiv.org/abs/1612.05478 Video Propagation Networks] \[[https://www.dropbox.com/s/z4z282zmn394bkl/VPN.pptx?dl=0 Slides] [https://www.dropbox.com/s/hi9xoi5hn2v8sgh/Review%20on%20VidSeg%20-%20Seminar-171022.pptx?dl=0 A review on DAVIS challenge]\]   |   Guang Li
 ~~~
 
 
