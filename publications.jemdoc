@@ -2,21 +2,72 @@
 = Publications
 
 
+Preprints
+. Stagewise Training Accelerates Convergence of Testing Error Over SGD \[[https://arxiv.org/abs/1812.03934 arXiv]\] \n
+Zhuoning Yuan, *Yan Yan*, Rong Jin, Tianbao Yang \n
+arXiv preprint arXiv:1812.03934v3 (2018)
+. Stochastic Primal-Dual Algorithms with Faster Convergence than $1/\sqrt{T}$ for Problems without Bilinear Structure \[[https://arxiv.org/abs/1904.10112 arXiv]\] \n
+*Yan Yan*, Yi Xu, Qihang Lin, Lijun Zhang, Tianbao Yang \n
+arXiv preprint arXiv:1904.10112 (2019)
 
 
-. Xuanyi Dong, *Yan Yan*, Wanli Ouyang, Yi Yang. Style Aggregated Network for Facial Landmark Detection. In /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/ 2018.
-. Yu Wu, Yutian Lin, Xuanyi Dong, *Yan Yan*, Wanli Ouyang, Yi Yang. Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning. In /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/ 2018.
-. *Yan Yan*, Tianbao Yang, Yi Yang, Jianhui Chen. A Framework of Online Learning with Imbalanced Streaming Data. In /Thirty-First AAAI Conference on Artificial Intelligence (AAAI)/ 2017.
-. Yi Xu\*, *Yan Yan*\*, Qihang Lin, Tianbao Yang. Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than O(1\/$\epsilon$). In /Neural Information Processing Systems (NIPS)/ 2016. \[[https://arxiv.org/pdf/1607.03815v1.pdf pdf]\]
-. *Yan Yan*, Feiping Nie, Wen Li, Chenqiang Gao, Yi Yang, Dong Xu. Image Classification by Cross-Media Active Learning with Privileged Information. /IEEE Transactions on Multimedia (TMM)/ 2016, accepted. \[[http://ieeexplore.ieee.org/document/7552533/ pdf]\]
-. *Yan Yan*, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang. Robust Semi-supervised Learning through Label Aggregation. In /Thirtieth Conference on Artificial Intelligence (AAAI)/ 2016. \[[http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12312 pdf]\] \[[rossel.zip code]\]
-. Mingkui Tan, *Yan Yan*, Li Wang, Anton Van Den Hengel, Ivor W. Tsang, Qinfeng (Javen) Shi. Learning Sparse Confidence-Weighted classifier on Very High Dimensional Data. In /Thirtieth Conference on Artificial Intelligence (AAAI)/ 2016. \[[http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12329/11845 pdf]\]
-. *Yan Yan*, Mingkui Tan, Ivor W. Tsang, Yi Yang, Chengqi Zhang and Qinfeng Shi. Scalable Maximum Margin Matrix Factorization by Active Riemannian Subspace Search. In /International Joint Conference on Artificial Intelligence (IJCAI)/ 2015. \[[http://www.ijcai.org/Proceedings/15/Papers/560.pdf pdf]\] \[[https://github.com/iemppu/arss code]\]
-. Yahong Han, Yi Yang, *Yan Yan*, Zhigang Ma, Nicu Sebe and Xiaofang Zhou. Semi-Supervised Feature Selection via Spline Regression for Video Semantic Recognition. /IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS)/ 2015.
-. Xingzhong Du, *Yan Yan*, Pingbo Pan, Guodong Long and Lei Zhao. Multiple Graph Unsupervised Feature Selection. /Signal Processing Journal/ 2014.
-. *Yan Yan*, Gaowen Liu, Sen Wang, Jian Zhang and Kai Zheng. Graph-Based Clustering and Ranking for Diversified Image Search. /Multimedia Systems Journal/ 2014.
-. Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang and *Yan Yan*. Hybrid Heterogeneous Transfer Learning through Deep Learning. In /Twenty-Eighth Conference on Artificial Intelligence (AAAI)/ 2014.
+Refereed Conference Publications
+. [https://www.ijcai.org/proceedings/2019/111 Multi-Level Visual-Semantic Alignments with Relation-Wise Dual Attention Network for Image and Text Matching] \n
+Zhibin Hu\*, Yongsheng Luo\*, Jiong Lin\*, *Yan Yan* and Jian Chen \n
+In International Joint Conference on Artificial Intelligence (IJCAI) 2019.
+. [https://aaai.org/ojs/index.php/AAAI/article/view/4352 Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection] \n
+Yanbin Liu, *Yan Yan*, Ling Chen, Yahong Han and Yi Yang \n
+In Thirty-Third AAAI Conference on Artificial Intelligence (AAAI) 2019.
+. [http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf Deep adversarial attention alignment for unsupervised domain adaptation: the benefit of target expectation maximization] \[[https://arxiv.org/abs/1801.10068 arXiv]\] \n
+Guoliang Kang, Liang Zheng, *Yan Yan*, and Yi Yang \n
+In Proceedings of the European Conference on Computer Vision (ECCV) 2018.
+. [https://www.ijcai.org/proceedings/2018/0410.pdf A Unified Analysis of Stochastic Momentum Methods for Deep Learning] \[[https://arxiv.org/abs/1808.10396 arXiv]\] \n
+*Yan Yan*, Tianbao Yang, Zhe Li, Qihang Lin and Yi Yang \n
+In International Joint Conference on Artificial Intelligence (IJCAI) 2018.
+. [http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf Style Aggregated Network for Facial Landmark Detection] \[[https://arxiv.org/abs/1803.04108 arXiv]\] \n
+Xuanyi Dong, Yan Yan, Wanli Ouyang and Yi Yang \n
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018.
+. [https://ieeexplore.ieee.org/document/8578641 Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning] \n
+Yu Wu, Yutian Lin, Xuanyi Dong, *Yan Yan*, Wanli Ouyang and Yi Yang \n
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018.
+. [https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14487 A Framework of Online Learning with Imbalanced Streaming Data] \n
+*Yan Yan*, Tianbao Yang, Yi Yang, Jianhui Chen \n
+In Thirty-First AAAI Conference on Artificial Intelligence (AAAI) 2017.
+. [https://papers.nips.cc/paper/6407-homotopy-smoothing-for-non-smooth-problems-with-lower-complexity-than-o1epsilon.pdf Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than O(1/$\epsilon$)] \[[https://arxiv.org/abs/1607.03815 arXiv]\] \n
+Yi Xu\*, *Yan Yan*\*, Qihang Lin, Tianbao Yang \n
+In Neural Information Processing Systems (NeurIPS) 2016.
+. [https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12312 Robust Semi-supervised Learning through Label Aggregation] \n
+*Yan Yan*, Zhongwen Xu, Ivor W. Tsang, Guodong Long, Yi Yang \n
+In Thirtieth Conference on Artificial Intelligence (AAAI) 2016.
+. [https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12329 Learning Sparse Confidence-Weighted classifier on Very High Dimensional Data] \n
+Mingkui Tan, *Yan Yan*, Li Wang, Anton Van Den Hengel, Ivor W. Tsang, Qinfeng (Javen) Shi \n
+In Thirtieth Conference on Artificial Intelligence (AAAI) 2016.
+. [https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/view/11275 Scalable Maximum Margin Matrix Factorization by Active Riemannian Subspace Search] \n
+Yan Yan, Mingkui Tan, Ivor W. Tsang, Yi Yang, Chengqi Zhang and Qinfeng (Javen) Shi \n
+In International Joint Conference on Artificial Intelligence (IJCAI) 2015, 3988-3994.
+. [https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8181 Hybrid Heterogeneous Transfer Learning through Deep Learning] \n
+Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang and *Yan Yan* \n
+In Twenty-Eighth Conference on Artificial Intelligence (AAAI) 2014, 2213-2219.
 
 
-
-
+Refereed Journal Publications
+. [https://ieeexplore.ieee.org/document/8451915 Late Fusion via Subspace Search With Consistency Preservation] \n
+Xuanyi Dong, *Yan Yan*, Mingkui Tan, Yi Yang and Ivor W. Tsang \n
+Accepted by IEEE Transactions on Image Processing, vol. 28, no. 1, pp. 518-528, Jan. 2019.
+. [https://ieeexplore.ieee.org/document/8540438 Fast and Low Memory Cost Matrix Factorization: Algorithm, Analysis and Case Study] \n
+*Yan Yan*, Mingkui Tan, Ivor W. Tsang, Yi Yang, Qinfeng Shi and Chengqi Zhang \n
+Accepted by IEEE Transactions on Knowledge and Data Engineering, doi=10.1109/TKDE.2018.2882197.
+. [https://ieeexplore.ieee.org/document/7552533 Image Classification by Cross-Media Active Learning with Privileged Information] \n
+*Yan Yan*, Feiping Nie, Wen Li, Chenqiang Gao, Yi Yang, Dong Xu \n
+IEEE Transactions on Multimedia, vol. 18, no. 12 (2016): 2494-2502.
+. [https://ieeexplore.ieee.org/document/6786497 Semi-Supervised Feature Selection via Spline Regression for Video Semantic Recognition] \n
+IEEE Transactions on Neural Networks and Learning Systems, vol. 26, no. 2 (2015): 252-264.
+. [https://www.sciencedirect.com/science/article/pii/S016516841400601X Multiple Graph Unsupervised Feature Selection] \n
+Xingzhong Du, *Yan Yan*, Pingbo Pan, Guodong Long and Lei Zhao \n
+Signal Processing 120 (2016): 754-760.
+. [https://link.springer.com/article/10.1007/s00530-014-0419-4 Graph-Based Clustering and Ranking for Diversified Image Search] \n
+*Yan Yan*, Gaowen Liu, Sen Wang, Jian Zhang and Kai Zheng \n
+Multimedia Systems, vol. 23, no. 1 (2017): 41-52.
+. [https://www.sciencedirect.com/science/article/pii/S0022519312004304 Subcellular localization prediction for human internal and organelle membrane proteins with projected gene ontology scores] \n
+Pufeng Du, Yang Tian and *Yan Yan* \n
+Journal of Theoretical Biology 313 (2012): 61-67.
