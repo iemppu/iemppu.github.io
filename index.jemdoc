@@ -1,8 +1,63 @@
 # jemdoc: menu{MENU}{index.html}
-= Yan Yan
 
-Greetings! I am a postdoc research associate in [https://cs.uiowa.edu/ the Computer Science Department] at [https://uiowa.edu/ the University of Iowa], working with Professor [https://homepage.cs.uiowa.edu/~tyng/publications.html Tianbao Yang]. I received my Ph.D degree in 2018 from Centre for Artificial Intelligent ([https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence CAI]) in Faculty of Engineering and Information Technology ([https://www.uts.edu.au/about/faculty-engineering-and-information-technology FEIT]), University of Technology Sydney, Australia ([https://www.uts.edu.au/ UTS]), under the supervision of Professor [https://www.uts.edu.au/staff/yi.yang Yi Yang]. My research interests include machine learning and its application to computer vision. In 2013, I received my Bachelor degree from [http://www.tju.edu.cn/english/ Tianjin University], in [http://cs.tju.edu.cn/ Computer Science].
+\n
 
-My [https://scholar.google.com.au/citations?user=A6co_BAAAAAJ&hl=en Google Scholar] and [CV_YanYan_May2019.pdf CV]
+= Yan Yan \n
 
-Contact: yan-yan-2@uiowa.edu
+Assistant Professor in Machine Learning
+\n
+[https://school.eecs.wsu.edu/ School of Electrical Engineering And Computer Science]
+\n
+[https://wsu.edu/ Washington State University]
+
+\[[https://scholar.google.com.au/citations?user=A6co_BAAAAAJ&hl=en Google Scholar]\] ~
+\[[https://dblp.org/pid/13/3953-6.html DBLP]\] ~
+\[[CV_YanYan_to_hp.pdf CV]\]
+
+
+Email: yan.yan1 AT wsu DOT edu
+\n
+Office: EME 123
+
+\n
+
+=== Brief Biography
+
+I am an Assistant Professor in Machine Learning at [https://school.eecs.wsu.edu/ School of Electrical Engineering And Computer Science], [https://wsu.edu/ Washington State University], leading [group.html ROMA Lab]. 
+Before joining WSU, I was a postdoctoral research associate in [https://cs.uiowa.edu/ Computer Science Department] at [https://uiowa.edu/ University of Iowa], working with Professor [https://people.tamu.edu/~tianbao-yang Tianbao Yang]. 
+I received my Ph.D. in 2018 from Centre for Artificial Intelligent ([https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence CAI]) in Faculty of Engineering and Information Technology ([https://www.uts.edu.au/about/faculty-engineering-and-information-technology FEIT]), University of Technology Sydney, Australia ([https://www.uts.edu.au/ UTS]), under the supervision of Professor [http://reler.net/people/yi_yang/index.html Yi Yang]. 
+I was very fortunate to spend five years with [http://reler.net/people/ people] in [http://reler.net ReLER Lab].
+In 2013, I received my B.E. from [http://www.tju.edu.cn/english/ Tianjin University], in [http://cs.tju.edu.cn/ Computer Science].
+
+
+\n
+
+=== Research Interests
+
+- Stochastic gradient optimization
+- Statistical machine learning
+- Conformal prediction
+- Risk-aware robust learning
+
+\n
+
+=== News
+
+- AAAI-2024 Tutorial ``Advances in Robust Time-Series ML: From Theory to Practice'' has been accepted.
+- Yuanjie Shi presented our paper ``Probabilistically Robust Conformal Prediction'' on UAI-2023, at Carnegie Mellon University, Pittsburgh, PA, USA.
+- Serve as SPC for The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)
+- Selected for AAAI-2023 New Faculty Highlights.
+- Served as the 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
+- Taha Belkhouja presented our paper ``Improving Uncertainty Quantification of Deep Classifiers via Neighborhood Conformal Prediction: Novel Algorithm and Theoretical Analysis'' on AAAI-2023, at Walter E. Washington Convention Center, Washington, DC, USA.
+- Served as a faculty mentor for [https://tmp.wsu.edu Team Mentoring Program (TMP)] at WSU.
+- Served as a faculty mentor for [https://lsamp.wsu.edu Louis Stokes Alliance for Minority Participation (LSAMP)] at WSU.
+- ROMA Lab holds weakly seminars in Fall 2023 ([https://yuanjiesh.github.io/Yuanjie-Shi/seminar.html Schedule]).
+
+
+\n
+
+=== Research Group
+
+[group.html ROMA Lab] is looking for highly self-motivated Ph.D. students, working on optimization algorithms for machine learning problems, statistical machine learning, conformal prediction and risk-aware robust learning. If you share similar research interests in machine learning, please send your CV and research proposal (if any) to yan.yan1 AT wsu DOT edu. Due to the large number of emails we receive, we cannot respond to every email individually. Thanks!
+
+

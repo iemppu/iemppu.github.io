@@ -1,17 +1,13 @@
 # jemdoc: menu{MENU}{publications.html}
+\n
+
 = Publications
 
+\n
 
-Preprints
-. Nearly Optimal Robust Method for Convex Compositional Problems with Heavy-Tailed Noise \[[https://arxiv.org/abs/2006.10095 arXiv]\] \n
-*Yan Yan*, Xin Man, Tianbao Yang \n
-arXiv preprint arXiv:2006.10095 (2020). Under review.
-. Stochastic Primal-Dual Algorithms with Faster Convergence than $1/\sqrt{T}$ for Problems without Bilinear Structure \[[https://arxiv.org/abs/1904.10112 arXiv]\] \n
-*Yan Yan*, Yi Xu, Qihang Lin, Lijun Zhang, Tianbao Yang \n
-arXiv preprint arXiv:1904.10112 (2019). Under review.
+=== Conference Publications
 
 
-Refereed Conference Publications
 . [https://proceedings.mlr.press/v216/ghosh23a.html Probabilistically Robust Conformal Prediction]. \[[https://arxiv.org/abs/2307.16360 arXiv]\] \n
 Subhankar Ghosh\*, Yuanjie Shi\*, Taha Belkhouja, *Yan Yan*, Jana Doppa, Brian Jones. \n
 Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI 2023), PMLR 216:681-690, 2023.
@@ -76,8 +72,12 @@ In International Joint Conference on Artificial Intelligence (IJCAI 2015), 3988-
 Joey Tianyi Zhou, Sinno Jialin Pan, Ivor W. Tsang and *Yan Yan* \n
 In Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2014), 2213-2219.
 
+\n
 
-Refereed Journal Publications
+=== Journal Publications
+. [https://dl.acm.org/doi/abs/10.1145/3630633 Out-of-Distribution Detection in Time-Series Domain: A Novel Seasonal Ratio Scoring Approach] \[[https://arxiv.org/abs/2207.04306 arXiv]\] \n
+  Taha Belkhouja, *Yan Yan*, Janardhan Doppa. \n
+  ACM Transactions on Intelligent Systems And Technology (ACM TIST), Accepted, 2023.
 . [https://www.jmlr.org/papers/v24/21-1471.html Fast Objective and Duality Gap Convergence for Non-convex Strongly-concave Min-max Problems] \[[https://arxiv.org/abs/2006.06889 arXiv]\] \n
 Zhishuai Guo, Zhuoning Yuan, *Yan Yan*, Tianbao Yang \n
 Journal of Machine Learning Research 24 (2023): 1-63.
@@ -112,8 +112,34 @@ Multimedia Systems, vol. 23, no. 1 (2017): 41-52.
 Pufeng Du, Yang Tian and *Yan Yan* \n
 Journal of Theoretical Biology 313 (2012): 61-67.
 
+\n
 
-Workshop Papers
+=== Book Chapters
+. Yan Yan. 
+``Machine Learning Fundamentals.''
+Machine Learning in Chemical Safety and Health: Fundamentals with Applications (2022): 19.
+Editor: Qingsheng Wang , Changjie Cai.
+. Yan Yan.
+``Machine Learning Fundamentals.''
+Encyclopedia of Smart Agriculture Technologies (2023). 
+Editor: Qin Zhang.
+DOI: https://doi.org/10.1007/978-3-030-89123-7.
+
+\n
+
+=== Workshop Papers
+
 . [https://sgo-workshop.github.io/CameraReady2019/10.pdf Sharp Analysis of Simple Restarted Stochastic Gradient Methods for Min-Max Optimization] \n
 *Yan Yan*, Yi Xu, Qihang Lin, Wei Liu, Tianbao Yang \n
 Bridging Game Theory and Deep Learning Workshop NeurIPS 2019 (Smooth Games Optimization and Machine Learning Series).
+
+\n
+
+=== Preprints
+. Nearly Optimal Robust Method for Convex Compositional Problems with Heavy-Tailed Noise \[[https://arxiv.org/abs/2006.10095 arXiv]\] \n
+*Yan Yan*, Xin Man, Tianbao Yang \n
+arXiv preprint arXiv:2006.10095 (2020). Under review.
+. Stochastic Primal-Dual Algorithms with Faster Convergence than $1/\sqrt{T}$ for Problems without Bilinear Structure \[[https://arxiv.org/abs/1904.10112 arXiv]\] \n
+*Yan Yan*, Yi Xu, Qihang Lin, Lijun Zhang, Tianbao Yang \n
+arXiv preprint arXiv:1904.10112 (2019). Under review.
+
