@@ -12,17 +12,7 @@ ROMA (Robust MAchine learning) Lab focuses on the robustness of machine learning
 We have particular research interests in stochastic optimization algorithm design and analysis, statistical machine learning, conformal prediction algorithms, risk-aware learning algorithms.
 
 
-==== Stochastic Optimization
-Stochastic gradient optimization algorithms are fundamentally important for building machine learning models, not only about getting superior performance, but also understanding and controlling the behavior of learning algorithms.
-We target developing stochastic optimization algorithms with theoretical analysis for a variety of machine learning problems, such as min-max, inf-projection problems, mean-risk models.
-
-
-==== Statistical Machine Learning
-We focus on the generalizability of the learned model via improving the learning algorithms or designing robust objectives.
-Our main interest is to combine optimization process into the unified analysis for the generalization formance of the learned model, so that the overall generalization error bound can be improved.
-
-
-==== Conformal Prediction
+==== Conformal Prediction for Uncertainty Quantification
 Uncertainty quantification plays a crucial role for the robustness and trustworthiness of machine learning models. 
 We engaged to developing conformal prediction algorithms for efficiently quantifying the uncertainty of machine learning models that serves as an intelligent assistant to help save human effort for decision-making.
 
@@ -32,7 +22,18 @@ Conventional machine learning paradigm focuses on average performance measures, 
 We target on the risk-aware learning via mean-risk models such as variance regularization or conformalized objectives.
 
 
-==== Computer Vision
+==== Statistical Machine Learning
+We focus on the generalizability of the learned model via improving the learning algorithms or designing robust objectives.
+Our main interest is to combine optimization process into the unified analysis for the generalization formance of the learned model, so that the overall generalization error bound can be improved.
+
+
+==== Stochastic Convex/Non-Convex Optimization for Machine Learning Problems
+Stochastic gradient optimization algorithms are fundamentally important for building machine learning models, not only about getting superior performance, but also understanding and controlling the behavior of learning algorithms.
+We target developing stochastic optimization algorithms with theoretical analysis for a variety of machine learning problems, such as min-max, inf-projection problems, mean-risk models.
+
+
+
+==== Applications to Computer Vision
 
 Robustness is even increasingly important as deep learning being used in many scenarios.
 We target using the cutting-edge techniques to many learning scenarios such as adversarial training, long-tail classification and object detection, where data distribution can be noisy or shifted.
@@ -53,9 +54,9 @@ We target using the cutting-edge techniques to many learning scenarios such as a
 \n
 
 
-== Weakly Seminars
+== Weekly Seminars
 
-We hold weakly seminars in each semester aiming to catch the cutting-edge vision/technologies of the research communities of machine learning, artificial intelligence and computer vision.
+We hold weekly seminars in each semester aiming to catch the cutting-edge vision/technologies of the research communities of machine learning, artificial intelligence and computer vision.
 Yuanjie Shi is maintainiing the [https://yuanjiesh.github.io/Yuanjie-Shi/seminar.html schedule and location] for Fall 2023.
 
 

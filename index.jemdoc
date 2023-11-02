@@ -4,15 +4,14 @@
 
 = Yan Yan \n
 
-Assistant Professor in Machine Learning
+Assistant Professor of Computer Science
 \n
 [https://school.eecs.wsu.edu/ School of Electrical Engineering And Computer Science]
 \n
 [https://wsu.edu/ Washington State University]
 
 \[[https://scholar.google.com.au/citations?user=A6co_BAAAAAJ&hl=en Google Scholar]\] ~
-\[[https://dblp.org/pid/13/3953-6.html DBLP]\] ~
-\[[CV_YanYan_to_hp.pdf CV]\]
+\[[https://dblp.org/pid/13/3953-6.html DBLP]\]
 
 
 Email: yan.yan1 AT wsu DOT edu
@@ -34,10 +33,10 @@ In 2013, I received my B.E. from [http://www.tju.edu.cn/english/ Tianjin Univers
 
 === Research Interests
 
-- Stochastic gradient optimization
-- Statistical machine learning
-- Conformal prediction
+- Conformal prediction for uncertainty quantification
 - Risk-aware robust learning
+- Statistical machine learning
+- Stochastic convex/non-convex optimization for machine learning problems
 
 \n
 
@@ -52,7 +51,7 @@ In 2013, I received my B.E. from [http://www.tju.edu.cn/english/ Tianjin Univers
 - Taha Belkhouja presented our paper ``Improving Uncertainty Quantification of Deep Classifiers via Neighborhood Conformal Prediction: Novel Algorithm and Theoretical Analysis'' on AAAI-2023, at Walter E. Washington Convention Center, Washington, DC, USA.
 - Served as a faculty mentor for [https://tmp.wsu.edu Team Mentoring Program (TMP)] at WSU.
 - Served as a faculty mentor for [https://lsamp.wsu.edu Louis Stokes Alliance for Minority Participation (LSAMP)] at WSU.
-- ROMA Lab holds weakly seminars in Fall 2023 ([https://yuanjiesh.github.io/Yuanjie-Shi/seminar.html Schedule]).
+- ROMA Lab holds weekly seminars in Fall 2023 ([https://yuanjiesh.github.io/Yuanjie-Shi/seminar.html Schedule]).
 
 
 \n
