@@ -344,13 +344,15 @@ td {
     padding: 2px;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    text-align: center;
+/*    text-align: center;*/
+	text-align: left;
     border: 1px solid gray;
 }
 
 table + table {
     margin-top: 1em;
 }
+
 
 tr.heading {
     font-weight: bold;
