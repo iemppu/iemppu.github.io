@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/du2012subcellular
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2012
+date: 2012-01-01
 venue: 'Journal of theoretical biology'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022519312004304'
