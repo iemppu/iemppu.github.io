@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+Assistant Professor, 
+<a href="https://school.eecs.wsu.edu/" target="_blank" rel="noopener">School of Electrical Engineering and Computer Science</a>, 
+<a href="https://wsu.edu/" target="_blank" rel="noopener">Washington State University</a>
 
 profile:
   align: right
@@ -26,6 +29,33 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+
+I am an Assistant Professor at the
+[School of Electrical Engineering and Computer Science](https://school.eecs.wsu.edu/),
+[Washington State University](https://wsu.edu/),
+where I lead the [ROMA Lab](/people/).
+
+Before joining WSU, I was a postdoctoral research associate in the
+[Department of Computer Science](https://cs.uiowa.edu/)
+at the [University of Iowa](https://uiowa.edu/),
+working with Prof. [Tianbao Yang](https://people.tamu.edu/~tianbao-yang).
+
+I received my Ph.D. in 2018 from the
+[Centre for Artificial Intelligence (CAI)](https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence),
+Faculty of Engineering and Information Technology,
+[University of Technology Sydney](https://www.uts.edu.au/),
+under the supervision of Prof. [Yi Yang](http://reler.net/people/yi_yang/index.html).
+
+I spent five years with the
+[ReLER Lab](http://reler.net/people/),
+at the [University of Technology Sydney](http://reler.net), 
+during which I also worked closely with Prof. [Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang).
+
+In 2013, I received my B.E. in Computer Science from
+[Tianjin University](http://www.tju.edu.cn/english/).
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
