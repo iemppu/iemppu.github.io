@@ -7,8 +7,8 @@ subtitle:
 
 profile:
   align: right
-  # image: prof_pic.jpg
-  # image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     Office: EME 123<br>
     Office Hour (Spring 2026): 11:30AM–12:30PM,<br>
