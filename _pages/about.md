@@ -10,13 +10,13 @@ profile:
   # image: prof_pic.jpg
   # image_circular: false # crops the image to make it circular
   more_info: >
-    <b>Email:</b> yan.yan1 AT wsu DOT edu<br>
-    <b>Office:</b> EME 123<br>
-    <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue, 1/13 - 4/28<br>
+    Office: EME 123<br>
+    Office Hour (Spring 2026): 11:30AM–12:30PM,<br>
+    Tue, 1/13 - 4/28<br>
     <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Book An Office Hour</a><br><br>
     <b>EECS Faculty Mentor Meeting:</b>
-          <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">Book an EECS FM</a>, 
-          11:30AM-1:30PM, 3/25 (Wed), 3/26 (Thu), 4/1 (Wed), 4/2 (Thu)
+          <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">Book an EECS FM</a>,<br>
+          11:30AM-1:30PM, Wed/Thu, 3/25 - 4/2
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
