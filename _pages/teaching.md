@@ -27,7 +27,7 @@ Click each course for detailed information, including syllabus, schedule and res
 
 
 -- [CPTS 223 Advanced Data Structure in C/C++](/teaching/cpts223/).
-   Fall 2021 - 2025
+   Fall 2021 - 2024
 
 
 
