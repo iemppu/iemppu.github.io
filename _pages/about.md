@@ -38,6 +38,10 @@ I am an Assistant Professor at the
 [Washington State University](https://wsu.edu/),
 where I lead the [ROMA Lab](/people/).
 My research interests include uncertainty quantification, risk-aware robust learning and stochastic optimization for machine learning with applications to language models and computer vision.
+I am the recipient of an NSF CAREER Award (2025).
+Over the past four years, I taught 237 students per year on average across three courses.
+I also mentor over 50 students each year in EECS as a faculty mentor.
+
 
 Before joining WSU, I was a postdoctoral research associate in the
 [Department of Computer Science](https://cs.uiowa.edu/)
