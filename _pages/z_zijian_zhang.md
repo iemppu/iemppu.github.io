@@ -1,0 +1,1 @@
+Zijian Zhang, PhD Student @EECS WSU, starting Spring 2026

@@ -1,0 +1,1 @@
+[Yuanjie Shi](https://yuanjiesh.github.io/Yuanjie-Shi/), PhD Candidate @EECS WSU, 2021 ~ present
