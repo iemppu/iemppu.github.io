@@ -1,1 +1,1 @@
-Xinyu Chen, PhD student @EECS WSU, 2021 ~ present
+Xinyu Chen, PhD Student @EECS WSU, 2021 ~ present

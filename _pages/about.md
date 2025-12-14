@@ -33,6 +33,7 @@ I am an Assistant Professor at the
 [School of Electrical Engineering and Computer Science](https://school.eecs.wsu.edu/),
 [Washington State University](https://wsu.edu/),
 where I lead the [ROMA Lab](/people/).
+My research interests include uncertainty quantification, risk-aware robust learning and stochastic optimization for machine learning with applications to language models and computer vision.
 
 Before joining WSU, I was a postdoctoral research associate in the
 [Department of Computer Science](https://cs.uiowa.edu/)
@@ -58,4 +59,20 @@ My undergraduate thesis was supervised by Prof. [Qinghua Hu](https://cic.tju.edu
 and I also received extensive mentorship from Prof. [Pufeng Du](https://www.pufengdu.org/).
 
 
+### Contact
 
+<div style="border:1px solid #ddd; border-radius:12px; padding:14px 16px; margin:12px 0;">
+  <p>
+    <b>Email:</b> yan.yan1 AT wsu DOT edu<br>
+    <b>Office:</b> EME 123<br>
+    <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue<br>
+    <b>Book an office hour:</b>
+    <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Calendly</a>
+  </p>
+</div>
+
+For
+<a href="https://school.eecs.wsu.edu/academics/undergraduate-advising/faculty-mentors/">
+<b>Faculty Mentor Meeting at EECS</b>
+</a>,
+please feel free to sign up for my office hours shown above.
