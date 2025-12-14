@@ -65,14 +65,10 @@ and I also received extensive mentorship from Prof. [Pufeng Du](https://www.pufe
   <p>
     <b>Email:</b> yan.yan1 AT wsu DOT edu<br>
     <b>Office:</b> EME 123<br>
-    <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue<br>
+    <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue, 1/13 - 4/28<br>
     <b>Book an office hour:</b>
-    <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Calendly</a>
+    <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Office Hour on Calendly</a><br>
+    <b>EECS Faculty Mentor Meeting:<b> Please sign up with this <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">EECS FM Calendly</a>, 3/
   </p>
 </div>
 
-For
-<a href="https://school.eecs.wsu.edu/academics/undergraduate-advising/faculty-mentors/">
-<b>Faculty Mentor Meeting at EECS</b>
-</a>,
-please feel free to sign up for my office hours shown above.
