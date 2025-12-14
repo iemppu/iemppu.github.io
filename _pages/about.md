@@ -5,14 +5,18 @@ permalink: /
 subtitle: 
 
 
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
-#   more_info: >
-#     <p>555 your office number</p>
-#     <p>123 your address street</p>
-#     <p>Your City, State 12345</p>
+profile:
+  align: right
+  # image: prof_pic.jpg
+  # image_circular: false # crops the image to make it circular
+  more_info: >
+    <b>Email:</b> yan.yan1 AT wsu DOT edu<br>
+    <b>Office:</b> EME 123<br>
+    <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue, 1/13 - 4/28<br>
+    <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Book An Office Hour</a><br><br>
+    <b>EECS Faculty Mentor Meeting:</b>
+          <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">Book an EECS FM</a>, 
+          11:30AM-1:30PM, 3/25 (Wed), 3/26 (Thu), 4/1 (Wed), 4/2 (Thu)
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -59,7 +63,7 @@ My undergraduate thesis was supervised by Prof. [Qinghua Hu](https://cic.tju.edu
 and I also received extensive mentorship from Prof. [Pufeng Du](https://www.pufengdu.org/).
 
 
-### Contact
+### contact
 
 <div style="border:1px solid #ddd; border-radius:12px; padding:14px 16px; margin:12px 0;">
   <p>
@@ -68,7 +72,7 @@ and I also received extensive mentorship from Prof. [Pufeng Du](https://www.pufe
     <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue, 1/13 - 4/28<br>
     <b>Book an office hour:</b>
     <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Office Hour on Calendly</a><br>
-    <b>EECS Faculty Mentor Meeting:<b> Please sign up with this <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">EECS FM Calendly</a>, 3/
+    <b>EECS Faculty Mentor Meeting:<b> Please sign up with this <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">EECS FM Calendly</a>, 3/25 (Wed), 3/26 (Thu), 4/1 (Wed), 4/2 (Thu)
   </p>
 </div>
 
