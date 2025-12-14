@@ -3,19 +3,19 @@
   color: "#009f36"
 
 "ML":
-  color: "#00369f"
+  color: "#66BB6A"
 
 "Optimization":
-  color: "#AD1457"
+  color: "#6FA8DC"
 
 "Application":
-  color: "#5D4037"
+  color: "#BCAAA4"
 
 "CP":
-  color: "#6A1B9A"
+  color: "#9C6BCB"
 
 "Robust":
-  color: "#37474F"
+  color: "#90A4AE"
 
 "FL":
-  color: "#1565C0"
+  color: "#64B5F6"
