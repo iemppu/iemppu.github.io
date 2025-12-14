@@ -7,8 +7,8 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  # image: prof_pic.jpg
+  # image_circular: false # crops the image to make it circular
   more_info: >
     Office: EME 123<br>
     Office Hour (Spring 2026): 11:30AM–12:30PM,<br>
@@ -63,16 +63,4 @@ My undergraduate thesis was supervised by Prof. [Qinghua Hu](https://cic.tju.edu
 and I also received extensive mentorship from Prof. [Pufeng Du](https://www.pufengdu.org/).
 
 
-### contact
-
-<div style="border:1px solid #ddd; border-radius:12px; padding:14px 16px; margin:12px 0;">
-  <p>
-    <b>Email:</b> yan.yan1 AT wsu DOT edu<br>
-    <b>Office:</b> EME 123<br>
-    <b>Office Hour (Spring 2026):</b> 11:30AM–12:30PM, Tue, 1/13 - 4/28<br>
-    <b>Book an office hour:</b>
-    <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Office Hour on Calendly</a><br>
-    <b>EECS Faculty Mentor Meeting:<b> Please sign up with this <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">EECS FM Calendly</a>, 3/25 (Wed), 3/26 (Thu), 4/1 (Wed), 4/2 (Thu)
-  </p>
-</div>
 
