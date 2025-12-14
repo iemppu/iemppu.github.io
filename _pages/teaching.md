@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for CPTS434/534, CPTS541 and CPTS223
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+CPTS 434/534 Neural Network Design and Application
+
+
+
+---
+
+
+CPTS 541 Computer Vision
+
+
+---
+
+
+
+CPTS 223 Advanced Data Structure in C/C++

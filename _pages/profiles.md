@@ -26,8 +26,6 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
   - align: right
-    content: z_xinyu_chen.md
-  - align: right
     content: z_peihong_li.md
   - align: right
     content: z_xuesong_jia.md
