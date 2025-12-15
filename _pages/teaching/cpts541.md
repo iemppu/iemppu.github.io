@@ -6,19 +6,20 @@ permalink: /teaching/cpts541/
 
 ## Course Overview
 
+**CPTS 541 – Computer Vision** introduces fundamental principles and modern techniques for
+analyzing and interpreting visual data (e.g., images and videos). The course covers:
 
-This course provides an introduction to computer vision (CV), an important sub-field in artificial intelligence (AI). 
-It mainly includes three topics that are useful to construct and analyze CV systems:
-(i) basic low-level CV techniques,
-(ii) fundamental machine learning (ML) paradigm, and
-(iii) modern deep neural networks (DNNs) and their application to CV tasks.
-These three topics broadly cover both theoretical foundations of basic ML and deep learning, as well as the hands-on implementation for applications of computer vision, which targets the process and understanding of visual data (e.g., images, videos, etc.). 
-Particularly, this course also provides a graduate-level understanding to the connections from fundamental ML theory to practical CV approaches, and from low-level CV techniques to high-level CV system architectures.
-For the low-level CV techniques, we reviews classical image filtering, corner detection and hand-crafted features.
-For the fundamental ML theory, we review standard linear classifier, maximum likelihood estimation, probably approximately correct learning and optimization.
-For the modern DNNs, this course covers basic elements in neural network structures, and more sophisticated architectures for the CV tasks of object detection, segmentation, video classification and generative models.
+- Core low-level vision techniques (image filtering, feature detection)
+- Foundations of machine learning for perception
+- Deep neural network architectures and applications in vision
 
+The emphasis is on both conceptual understanding and practical implementation of
+vision systems using state-of-the-art methods.
 
+### Learning Outcomes
+- Understand classical computer vision algorithms and representations
+- Apply machine learning models to visual tasks
+- Design and implement deep learning solutions for detection, segmentation and recognition
 
 
 ## Syllabus
@@ -33,7 +34,7 @@ For the modern DNNs, this course covers basic elements in neural network structu
 | 1  | \[0\] Syllabus and Overview | [Slides](https://drive.google.com/file/d/1MaUXL3aqkTGLCUFg24tZk_3WQytqTfa1/view?usp=sharing) |
 | 2  | \[CV\] Image Classification  | [Slides](https://drive.google.com/file/d/1GMfMFcQx1GoJRLnZ0VommHRVaV8EZYVk/view?usp=sharing) |
 | 3  | \[CV\] Image Processing  | [Slides](https://drive.google.com/file/d/1nlLctVdrZ_Xeiu9sMjohbvQnb1Cu1ipT/view?usp=sharing) |
-| 4  | \[CV\] Detector Descriptors  | [Slides](https://drive.google.com/file/d/1HYawncd0i15q64I6EpJg1bUC85A-6Tsv/view?usp=sharing) |
+| 4  | \[CV\] Image Descriptors  | [Slides](https://drive.google.com/file/d/1HYawncd0i15q64I6EpJg1bUC85A-6Tsv/view?usp=sharing) |
 | 5  | \[ML\] What Is Learning  | [Slides](https://drive.google.com/file/d/1w9hBiXMUARjfMGNHcYRopNWolHrutjI_/view?usp=sharing) |
 | 6  | \[ML\] Linear Models  | [Slides](https://drive.google.com/file/d/1Xgt1YrIqQ7NON2Ab5tjY1rAcLkht-eEQ/view?usp=sharing) |
 | 7  | \[ML\] MLE and PAC Learning  | [Slides](https://drive.google.com/file/d/1uJDKwoPOhTcEK3BIyo442jZMgs2Mifpo/view?usp=sharing) |

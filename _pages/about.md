@@ -15,7 +15,7 @@ profile:
     Tue, 1/13 - 4/28<br>
     <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Book An Office Hour</a><br><br>
     <b>EECS Faculty Mentor Meeting:</b>
-          <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">Book an EECS FM</a>,<br>
+          <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">Book An EECS FM</a>,<br>
           11:30AM-1:30PM, Wed/Thu, 3/25 - 4/2
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
