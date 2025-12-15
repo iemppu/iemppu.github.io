@@ -22,12 +22,12 @@ Click each course for detailed information, including syllabus, schedule and res
 
 
 -- [CPTS 541 Computer Vision](/teaching/cpts541/).
-   Fall 2022 - 2025
+   Fall, 2022 - 2025
 
 
 
 -- [CPTS 223 Advanced Data Structure in C/C++](/teaching/cpts223/).
-   Fall 2021 - 2024
+   Fall, 2021 - 2024
 
 
 
