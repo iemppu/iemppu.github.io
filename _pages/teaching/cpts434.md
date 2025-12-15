@@ -6,27 +6,15 @@ permalink: /teaching/cpts434/
 
 ## Course Overview
 
-
-This course provides an introduction to deep neural networks (DNNs), a key component in modern machine learning.
-It includes both {\it theoretical} foundations of basic machine learning, and hands-on {\it implementation} of deep neural networks for some applications. 
-
-This course starts with basic concepts and components in statistical machine learning to shed light on the answers to these questions: (i) {\it what is learning}, (ii) {\it what can be learned}, (iii) {\it how to learn it}, (iv) {\it how well we can learn it}, and (v) {\it what machine learning can do}.
-
-Then we will cover the motivation of DNNs, as modern machine learning methods, over traditional machine learning algorithms in the viewpoint of {\it representation learning}, an important task of deep learning.
-As a key type of machine learning method, neural networks themselves have unique properties.
-We will discuss 
-(i) {\it general frameworks and typical components} in DNNs, 
-(ii) the {\it computational challenges} and 
-(iii) {\it key principles} to learn DNNs. 
+CPTS 434/534 introduces the foundations and practical aspects of deep neural networks, a cornerstone of modern machine learning. The course blends theoretical concepts in statistical learning with hands-on implementation of key deep learning models.
 
 
-After that we will detail several common types of neural networks that are commonly used for different modalities of data or learning targets, such as 
-(i) convolutional neural networks (CNNs) for image data, 
-(ii) recurrent neural networks (RNNs) for sequence data, 
-(iii) graph neural networks (GNNs) for graph data and
-(iv) generative adversarial networks (GANs). 
-As introducing these well-established networks, we will also cover some recent open research problems in deep learning such as diffusion models and representation learning.
+### Learning outcomes:
+- Principles of representation learning and optimization
+- Neural network architectures (MLPs, CNNs, RNNs, transformers)
+- Practical training techniques and modern model variants
 
+By the end of the course, students will understand how deep models are designed, trained, and applied to real-world data across vision, sequence, and structured domains.
 
 
 ## Syllabus
@@ -57,7 +45,7 @@ As introducing these well-established networks, we will also cover some recent o
 | 17 | \[GenAI\] GAN and VAE  | [Slides]() |
 | 18 | \[GenAI\] Diffusion Models  | [Slides]() |
 | 19 | \[FM\] Foundation Models  | [Slides]() |
-| 20 | \[FM\] Fumtimodal Foundation Models  | [Slides]() |
+| 20 | \[FM\] Multimodal Foundation Models  | [Slides]() |
 | 21 | \[FL\] Federated Learning  | [Slides]() |
 | 22 | \[UQ\] Conformal Prediction and Mean-Risk Model  | [Slides]() |
 | 23 | \[Agent\] Agentic Workflow  | [Slides]() |
