@@ -44,10 +44,10 @@ vision systems using state-of-the-art methods.
 | 11 | \[NN\] Backpropagation | [Slides](https://drive.google.com/file/d/1LYOg0PJGQOy7tRzd2Xe9qLQkQXpMBsdW/view?usp=sharing) |
 | 12 | \[NN\] MLP Softmax Classifier  | [Slides](https://drive.google.com/file/d/10DPQ_4yA3CIbL4UDFPWr79NKvt4ex8Cb/view?usp=sharing) |
 | 13 | \[CNN\] Convolutional Layer and CNN  | [Slides](https://drive.google.com/file/d/1JHVMrQO3e7pwvzH4p3Gi_vKbRD6vbY5h/view?usp=sharing) |
-| 14 | \[CNN\] CNN Architectures  | [Slides A](https://drive.google.com/file/d/1ua9872CWBFd_4fidzXRMsZ6Uln4HDkqf/view?usp=sharing) [Slides B](https://drive.google.com/file/d/16fKEevNf9_bM9JK06pzcR8bF6xRV3AjC/view?usp=sharing) |
+| 14 | \[CNN\] CNN Architectures  | [Slides A](https://drive.google.com/file/d/1ua9872CWBFd_4fidzXRMsZ6Uln4HDkqf/view?usp=sharing), [Slides B](https://drive.google.com/file/d/16fKEevNf9_bM9JK06pzcR8bF6xRV3AjC/view?usp=sharing) |
 | 15 | \[CNN\] Practical Training of CNN  | [Slides](https://drive.google.com/file/d/1mpHEE5LMue6sB3Xbdo9s_6lI6AyipKrd/view?usp=sharing) |
-| 16 | \[Modern NNs\] Transformer  | [Slides](https://drive.google.com/file/d/19OjnRNO_SAd1_iG8BWFjo1e34BWfFv_a/view?usp=sharing) |
-| 17 | \[Modern NNs\] ViT  | [Slides](https://drive.google.com/file/d/1SE7_SpYnSWGik8A7-BlmwVQ4ah-oHbqo/view?usp=sharing) |
+| 16 | \[ModernNN\] Transformer  | [Slides](https://drive.google.com/file/d/19OjnRNO_SAd1_iG8BWFjo1e34BWfFv_a/view?usp=sharing) |
+| 17 | \[ModernNN\] ViT  | [Slides](https://drive.google.com/file/d/1SE7_SpYnSWGik8A7-BlmwVQ4ah-oHbqo/view?usp=sharing) |
 | 18 | \[OD\] Ojbect Detection 1  | [Slides](https://drive.google.com/file/d/1grrYiyfXHU02GTVefR460xRTV8bhc_Cc/view?usp=sharing) |
 | 19 | \[OD\] Ojbect Detection 2  |  |
 | 20 | \[Seg\] Segmentation  | [Slides](https://drive.google.com/file/d/1RsPBmNLHuo9zownqYGfB2oMfxZpgsKVQ/view?usp=sharing) |
