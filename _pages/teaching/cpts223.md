@@ -22,7 +22,7 @@ permalink: /teaching/cpts223/
 
 ## Syllabus
 
-- 📄 **[Course Syllabus (PDF)](https://drive.google.com/file/d/1AORaiUhCHPrv3xLYhbsexvBdDAP7nhaG/view?usp=sharing)**
+- 📄 **[Course Syllabus, Fall 2024](https://drive.google.com/file/d/1AORaiUhCHPrv3xLYhbsexvBdDAP7nhaG/view?usp=sharing)**
 
 
 ## Lecture Schedule
