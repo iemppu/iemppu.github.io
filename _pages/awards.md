@@ -1,8 +1,8 @@
 ---
 layout: page
-title: awards
+title: Awards
 permalink: /awards/
-description: Awards
+# description: Awards
 nav: true
 nav_order: 9
 
