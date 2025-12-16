@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: awards
 permalink: /awards/
 # description: Awards
 nav: true
