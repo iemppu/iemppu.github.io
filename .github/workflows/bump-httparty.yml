@@ -11,28 +11,30 @@ jobs:
   bump:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
           bundler-cache: true
 
-      - name: Update httparty
+      - name: Show current httparty and who pulls it in
         run: |
-          bundle update httparty
-          bundle exec ruby -e 'require "httparty"; puts "HTTParty version: #{HTTParty::VERSION}"'
-          git diff -- Gemfile.lock || true
+          bundle info httparty || true
+          bundle why httparty || true
 
-      - name: Create PR
+      - name: Try updating httparty
+        run: |
+          set -euxo pipefail
+          bundle update httparty || true
+          grep -n "httparty (" Gemfile.lock || true
+
+      - name: Create PR if lockfile changed
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "Bump httparty to >= 0.24.0 (security)"
-          title: "Bump httparty to >= 0.24.0 (security)"
+          commit-message: "Bump httparty (security)"
+          title: "Bump httparty (security)"
           body: |
-            Automated dependency update to address the GitHub security alert for HTTParty.
-            - Runs `bundle update httparty`
-            - Updates Gemfile.lock
+            Attempt to upgrade HTTParty to a patched version.
+            The workflow logs include `bundle why httparty` to identify any pinning dependency.
           branch: "deps/bump-httparty"
