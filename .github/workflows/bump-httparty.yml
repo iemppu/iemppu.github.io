@@ -1,0 +1,38 @@
+name: Bump httparty (security)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Update httparty
+        run: |
+          bundle update httparty
+          bundle exec ruby -e 'require "httparty"; puts "HTTParty version: #{HTTParty::VERSION}"'
+          git diff -- Gemfile.lock || true
+
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Bump httparty to >= 0.24.0 (security)"
+          title: "Bump httparty to >= 0.24.0 (security)"
+          body: |
+            Automated dependency update to address the GitHub security alert for HTTParty.
+            - Runs `bundle update httparty`
+            - Updates Gemfile.lock
+          branch: "deps/bump-httparty"
