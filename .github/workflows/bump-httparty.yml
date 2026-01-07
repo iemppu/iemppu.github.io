@@ -18,6 +18,9 @@ jobs:
           ruby-version: "3.2"
           bundler-cache: true
 
+      - name: Unfreeze lockfile
+        run: bundle config set frozen false
+
       - name: Show current httparty and who pulls it in
         run: |
           bundle info httparty || true
