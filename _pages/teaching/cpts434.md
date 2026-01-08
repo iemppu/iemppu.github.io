@@ -9,18 +9,19 @@ permalink: /teaching/cpts434/
 CPTS 434/534 introduces the foundations and practical aspects of deep neural networks, a cornerstone of modern machine learning. The course blends theoretical concepts in statistical learning with hands-on implementation of key deep learning models.
 
 
-### Learning outcomes:
+### Learning Outcomes:
 - Principles of representation learning and optimization
-- Neural network architectures (MLPs, CNNs, RNNs, transformers)
-- Practical training techniques and modern model variants
+- Implementation of a variety of neural network architectures (MLPs, CNNs, RNNs, transformers, etc.)
+- Practical training techniques and modern neural network variants
 
-By the end of the course, students will understand how deep models are designed, trained, and applied to real-world data across vision, sequence, and structured domains.
+By the end of the course, students will understand how deep models are designed, trained, and applied to real-world data across vision, sequence and structured data domains.
 
 
-## Syllabus
+## Syllabus and Schedule
 
 - 📄 **[Course Syllabus, Spring 2026](https://drive.google.com/file/d/117fKrwd3njM1yaedxawtnvRSEdyrbub5/view?usp=sharing)**
 
+- 📅 **[Schedule, Spring 2026](https://docs.google.com/spreadsheets/d/16e8JSIs7QCm53d0K-_NyrDxMICOGE1cGmetySZsE0C4/edit?usp=sharing)**
 
 ## Lecture Schedule
 
@@ -38,7 +39,7 @@ By the end of the course, students will understand how deep models are designed,
 | 10 | \[CNN\] CNN Architectures  | [Slides](https://drive.google.com/file/d/1lFNG1jPGaoLF8zuQpnOu268M3D6dnwum/view?usp=sharing) |
 | 11 | \[CNN\] Practical Training of CNN  | [Slides](https://drive.google.com/file/d/1mryXrnsO-E4iUECeQw86LxhbR8exXEK_/view?usp=sharing) |
 | 12 | \[RNN\] Sequence Data and RNN  | [Slides](https://drive.google.com/file/d/1AepCEEKlzenOwEwopVxsVubHj1iALi_i/view?usp=sharing) |
-| 13 | \[RNN\] LSTM and RNN Architecutres  | [Slides](https://drive.google.com/file/d/1AKnFCOgINq9rbVyCCbj2nycJSJ0VvMFN/view?usp=sharing) |
+| 13 | \[RNN\] LSTM and RNN Architectures  | [Slides](https://drive.google.com/file/d/1AKnFCOgINq9rbVyCCbj2nycJSJ0VvMFN/view?usp=sharing) |
 | 14 | \[ModernNN\] Attention Mechanism  |  |
 | 15 | \[ModernNN\] Transformer and ViT  |  |
 | 16 | \[GNN\] Graph Data and Representation  |  |
