@@ -31,7 +31,7 @@ By the end of the course, students will understand how deep models are designed,
 | 2  | \[ML\] ML Basics  | [Slides](https://drive.google.com/file/d/1Rr5DG-mPm6f18z6b_uMF_QA1INbDS8SF/view?usp=sharing) |
 | 3  | \[ML\] PAC Learning  | [Slides](https://drive.google.com/file/d/1LmdBt6zvDaYvljeJdubP_CgKWRXx2azV/view?usp=sharing) |
 | 4  | \[ML\] ERM and MLE  | [Slides](https://drive.google.com/file/d/15UsfcYRF2sF9RLO4lO8EFz_AUZSJHSKY/view?usp=sharing) |
-| 5  | \[TA\] HW1 and Coding Tools  |  |
+| 5  | \[TA\] HW1 and Coding Tools  | [Slides](https://drive.google.com/file/d/11Kboy1wL1D_211X9H9AKPQwXY6LNRN6I/view?usp=share_link), [HW1](https://colab.research.google.com/drive/1xdlziG-mfe_QbYGlbOevOwoqyfnQ-Iju?usp=sharing) |
 | 6  | \[NN\] NN Basics  | [Slides](https://drive.google.com/file/d/1n6O08BWnAxmlx6iEx_6VT19yWlPHq4E6/view?usp=sharing) |
 | 7  | \[NN\] Compositing Units in NN  | [Slides](https://drive.google.com/file/d/15Iyi4XPKN24XaBEbO_srnP9jVf4Xfjgn/view?usp=sharing) |
 | 8  | \[NN\] MLP Softmax Classifier  | [Slides](https://drive.google.com/file/d/1LlRqHY2K6nK86_oEK4wmCjHNtMkdY-bH/view?usp=sharing) |
