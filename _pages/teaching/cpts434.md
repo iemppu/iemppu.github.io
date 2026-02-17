@@ -59,7 +59,7 @@ By the end of the course, students will understand how deep models are designed,
 |-----:|-------|--------|
 | HW1         | ML                | [Start Code](https://colab.research.google.com/drive/1xdlziG-mfe_QbYGlbOevOwoqyfnQ-Iju?usp=sharing), [HW Note](https://drive.google.com/file/d/18XqK2a8sCTn8yv03EfS4Im2eqb-ff7Sa/view?usp=sharing) |
 | HW2         | NN                | [Start Code](https://colab.research.google.com/drive/15OHK2fT-rGZN_X0aM1J019k5WTlYhNMx?usp=drive_link) |
-| HW3         | CNN               |  |
+| HW3         | CNN               | [Start Code](https://colab.research.google.com/drive/1rA2aUv_pSyymK0oFf2Px5Biy9UdO3LB9?usp=sharing) |
 | HW4         | Transformer + ViT |  |
 | HW5         | RNN + GNN         |  |
 | HW6         | GenAI             |  |
