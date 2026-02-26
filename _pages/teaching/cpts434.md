@@ -40,8 +40,8 @@ By the end of the course, students will understand how deep models are designed,
 | 11 | \[CNN\] Practical Training of CNN  | [Slides](https://drive.google.com/file/d/1mryXrnsO-E4iUECeQw86LxhbR8exXEK_/view?usp=sharing) |
 | 12 | \[RNN\] Sequence Data and RNN  | [Slides](https://drive.google.com/file/d/1AepCEEKlzenOwEwopVxsVubHj1iALi_i/view?usp=sharing) |
 | 13 | \[RNN\] LSTM and RNN Architectures  | [Slides](https://drive.google.com/file/d/1AKnFCOgINq9rbVyCCbj2nycJSJ0VvMFN/view?usp=sharing) |
-| 14 | \[ModernNN\] Attention Mechanism  |  |
-| 15 | \[ModernNN\] Transformer and ViT  |  |
+| 14 | \[ModernNN\] Attention Mechanism and Transformer  | [Slides](https://drive.google.com/file/d/1A6L_cVFcVSyCye_SYf5kHM3rLb3JJ2t-/view?usp=sharing) |
+| 15 | \[ModernNN\] Vision Transformer  | [Slides](https://drive.google.com/file/d/1X-YT40axzBZhp5qIssp5TXQLhncgl3jf/view?usp=sharing) |
 | 16 | \[GNN\] Graph Data and Representation  |  |
 | 17 | \[GNN\] GNN  |  |
 | 18 | \[GenAI\] GAN and VAE  |  |
