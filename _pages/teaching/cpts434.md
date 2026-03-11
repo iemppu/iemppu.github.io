@@ -44,7 +44,7 @@ By the end of the course, students will understand how deep models are designed,
 | 15 | \[ModernNN\] Vision Transformer  | [Slides](https://drive.google.com/file/d/1X-YT40axzBZhp5qIssp5TXQLhncgl3jf/view?usp=sharing) |
 | 16 | \[GNN\] Graph Neural Networks  | [Slides](https://drive.google.com/file/d/1C17bzs9CDr-shArBep-GNRgqAfM7POch/view?usp=sharing) |
 | 17 | \[GNN\] GNN Variants and Oversmoothing  | [Slides](https://drive.google.com/file/d/1G401bKe-OjN5g4N7sIp1JKXsyY80YLh6/view?usp=sharing) |
-| 18 | \[GenAI\] GAN and VAE  |  |
+| 18 | \[GenAI\] AR and VAE  | [Slides](https://drive.google.com/file/d/1qPaBVcaP1mCXD_RKRIPzHuFVsRtV7lTf/view?usp=sharing) |
 | 19 | \[GenAI\] Diffusion Models  |  |
 | 20 | \[FM\] Foundation Models  |  |
 | 21 | \[FM\] Multimodal Foundation Models  |  |
