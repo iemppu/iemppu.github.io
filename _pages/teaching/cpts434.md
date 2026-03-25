@@ -61,6 +61,6 @@ By the end of the course, students will understand how deep models are designed,
 | HW2         | NN                | [Start Code](https://colab.research.google.com/drive/15OHK2fT-rGZN_X0aM1J019k5WTlYhNMx?usp=drive_link) |
 | HW3         | CNN               | [Start Code](https://colab.research.google.com/drive/1rA2aUv_pSyymK0oFf2Px5Biy9UdO3LB9?usp=sharing) |
 | HW4         | LSTM+Transformer  | [Start Code](https://colab.research.google.com/drive/1dGbSmyNH0i3_9zZnAC4PiJWIH5Fl5b4Q?usp=sharing) |
-| HW5         | Gen AI            |  |
+| HW5         | Gen AI - VAE & Diffusion Models  | [Start Code](https://colab.research.google.com/drive/1iS5sZIjEmaw_W9SoKWLXuqyZUtfsqFp0?usp=sharing) |
 | HW6         | TBA               |  |
 
