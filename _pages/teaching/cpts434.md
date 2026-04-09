@@ -46,10 +46,10 @@ By the end of the course, students will understand how deep models are designed,
 | 17 | \[GNN\] GNN Variants and Oversmoothing  | [Slides](https://drive.google.com/file/d/1G401bKe-OjN5g4N7sIp1JKXsyY80YLh6/view?usp=sharing) |
 | 18 | \[GenAI\] AR and VAE  | [Slides](https://drive.google.com/file/d/1qPaBVcaP1mCXD_RKRIPzHuFVsRtV7lTf/view?usp=sharing) |
 | 19 | \[GenAI\] Diffusion Models  | [Slides](https://drive.google.com/file/d/1eOTY3QP6SYkm3qVZWFHaIU9WmVsIyi8g/view?usp=sharing) |
-| 20 | \[FM\] Foundation Models 1 | [Slides adapted from UvA Foundation Models course by Prof. Cees Snoek](https://drive.google.com/file/d/12yMlk7uEZwnQK4pi_6G9bIB4WT4CRDva/view?usp=sharing) |
-| 21 | \[FM\] Foundation Models 2 | [Slides adapted from UvA Foundation Models course by Prof. Cees Snoek](https://drive.google.com/file/d/1YcnOdpi81BBy_cyJaGJqznwvlmk4ee7U/view?usp=sharing) |
-| 22 | \[FM\] Foundation Models 3 | [Slides adapted from UvA Foundation Models course by Prof. Cees Snoek](https://drive.google.com/file/d/1hbaa41myWxQDLumjj6FP425g5rKZ0tKo/view?usp=sharing) |
-| 23 | \[UQ\] Conformal Prediction  |  |
+| 20 | \[FM\] Foundation Models 1 | [Slides adapted from UvA Foundation Models course](https://drive.google.com/file/d/12yMlk7uEZwnQK4pi_6G9bIB4WT4CRDva/view?usp=sharing) |
+| 21 | \[FM\] Foundation Models 2 | [Slides adapted from UvA Foundation Models course](https://drive.google.com/file/d/1YcnOdpi81BBy_cyJaGJqznwvlmk4ee7U/view?usp=sharing) |
+| 22 | \[FM\] Foundation Models 3 | [Slides adapted from UvA Foundation Models course](https://drive.google.com/file/d/1hbaa41myWxQDLumjj6FP425g5rKZ0tKo/view?usp=sharing) |
+| 23 | \[UQ\] Conformal Prediction  | [Slides](https://drive.google.com/file/d/1QQ0k0oLcZxb4mt0_sw7ZgL_GPDS7VSJC/view?usp=sharing) |
 | 24 | \[Agent\] Agentic Workflow and Course Summary |  |
 
 
