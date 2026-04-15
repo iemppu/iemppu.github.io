@@ -50,7 +50,7 @@ By the end of the course, students will understand how deep models are designed,
 | 21 | \[FM\] Foundation Models 2 | [Slides adapted from UvA Foundation Models course](https://drive.google.com/file/d/1YcnOdpi81BBy_cyJaGJqznwvlmk4ee7U/view?usp=sharing) |
 | 22 | \[FM\] Foundation Models 3 | [Slides adapted from UvA Foundation Models course](https://drive.google.com/file/d/1hbaa41myWxQDLumjj6FP425g5rKZ0tKo/view?usp=sharing) |
 | 23 | \[UQ\] Conformal Prediction  | [Slides](https://drive.google.com/file/d/1QQ0k0oLcZxb4mt0_sw7ZgL_GPDS7VSJC/view?usp=sharing) |
-| 24 | \[Agent\] Agentic Workflow and Course Summary |  |
+| 24 | \[Agent\] Agentic Workflow and Course Summary | [Slides](https://drive.google.com/file/d/1Z3PTGjXHiGfWLfTRYTb6XxXcaBDKNIF3/view?usp=sharing) |
 
 
 ## Assignment Materials
