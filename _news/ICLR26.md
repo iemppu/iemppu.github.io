@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to ICLR'26.
+One paper has been accepted to ICLR'26. Congratulations to [Yuanjie]((https://yuanjiesh.github.io/Yuanjie-Shi/index.html)) and collaborators.
