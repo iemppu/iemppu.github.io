@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to ICML'26. Congratulations to [Yuanjie]((https://yuanjiesh.github.io/Yuanjie-Shi/index.html)) and collaborators.
+One paper has been accepted to ICML'26. Congratulations to [Yuanjie](https://yuanjiesh.github.io/Yuanjie-Shi/index.html) and collaborators.
