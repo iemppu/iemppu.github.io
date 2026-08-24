@@ -24,7 +24,7 @@ vision systems using state-of-the-art methods.
 
 ## Syllabus
 
-- 📄 **[Course Syllabus, Fall 2025](https://drive.google.com/file/d/15XzsVIKN1RzERGjmUIPE_FZgLsP6rDIk/view?usp=sharing)**
+- 📄 **[Course Syllabus, Fall 2026](https://drive.google.com/file/d/1nqb98lybs5ldzCE6YnBMPzbd6Rw4pHV6/view?usp=sharing)**
 
 
 ## Lecture Schedule
