@@ -43,11 +43,15 @@ By the end of the course, students should be able to:
 - 📄 **[Course Syllabus, Fall 2026](https://drive.google.com/file/d/1nqb98lybs5ldzCE6YnBMPzbd6Rw4pHV6/view?usp=sharing)**
 
 
-## Lecture Schedule
 
-| Week | Topic | Slides |
+## Lecture Units and Slides
+
+The course slides are organized into 13 logical lecture units. Each unit typically contains three classes. 
+The calendar schedule, including holidays and presentation dates, is provided in the course syllabus and Canvas.
+
+| Unit | Topic | Slides |
 |-----:|-------|--------|
-| 1  | \[CV\] Visual Measurement, Matching, and Learning | [Slides](https://drive.google.com/file/d/1tQdfP1nla9MS5o0bfeb8gfqiQx-3war9/view?usp=sharing) |
+| 1  | \[CV\] Visual Measurement, Matching, and Learning | [Slides](https://drive.google.com/file/d/1tQdfP1nla9MS5o0bfeb8gfqiQx-3war9/view?usp=sharing)  |
 | 2  | \[NN\] Neural Networks, CNNs, and Vision Transformers |  |
 | 3  | \[Pretrain\] Self-Supervised Visual Pretraining |  |
 | 4  | \[VLM\] Vision-Language Pretraining and Adaptation |  |
@@ -66,10 +70,10 @@ By the end of the course, students should be able to:
 
 | Assignments | Topic/Section | Materials |
 |-----:|-------|--------|
-| HW1 | \[CV\] Local Features, Matching, and Recognition |  |
+| HW1 | \[CV\] Local Evidence for Matching and Recognition |  |
 | HW2 | \[ML\] Loss, Optimization, and Generalization |  |
-| HW3 | \[Pretrain\] Visual Pretraining and Adaptation |  |
-| HW4 | \[Seg\] Segmentation and Promptable Perception |  |
+| HW3 | \[Pretrain\] Pretrain Once, Adapt Many Ways |  |
+| HW4 | \[Seg\] From Segmentation to Promptable Perception |  |
 | HW5 | \[Video\] Learning from Time |  |
-| HW6 | \[VAM\] Action Models and Reliable Visual Control |  |
+| HW6 | \[VAM + ReliableAI\] Action Chunking Transformer for Reliable Visual Control |  |
 
