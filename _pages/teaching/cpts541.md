@@ -51,7 +51,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 
 | Unit | Topic | Slides |
 |-----:|-------|--------|
-| 1  | \[CV\] Visual Measurement, Matching, and Learning | [Slides](https://drive.google.com/file/d/1tQdfP1nla9MS5o0bfeb8gfqiQx-3war9/view?usp=sharing)  |
+| 1  | \[CV\] Visual Measurement, Matching, and Learning | [Slides](https://drive.google.com/file/d/1Q5fiIeemUEW00yZigx23Q_-BUiYvkOvy/view?usp=sharing)  |
 | 2  | \[NN\] Neural Networks, CNNs, and Vision Transformers |  |
 | 3  | \[Pretrain\] Self-Supervised Visual Pretraining |  |
 | 4  | \[VLM\] Vision-Language Pretraining and Adaptation |  |
