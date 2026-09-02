@@ -4,6 +4,8 @@ title: CPTS 541 – Computer Vision
 permalink: /teaching/cpts541/
 ---
 
+*This course page is the primary entry point for course materials. Canvas is used for assignment release/submission, grading, and course announcements.*
+
 ## Course Overview
 
 **CPTS 541 – Computer Vision** is a graduate-level course on the principles, models, and
@@ -30,17 +32,17 @@ empirical comparison, and a course project involving modern computer vision meth
 
 By the end of the course, students should be able to:
 
-- Explain how sensing, sampling, geometry, learning objectives, and optimization shape the information available to a visual system
-- Implement and analyze core visual learning models, including neural networks, CNNs, transformers, and pretrained visual encoders
-- Compare major visual pretraining approaches and adapt pretrained representations through zero-shot prediction, probing, fine-tuning, and parameter-efficient methods
-- Formulate and evaluate detection, grounding, segmentation, video, 3D, and generative vision tasks
-- Analyze multimodal, embodied, and action-conditioned visual systems in terms of architecture, grounding, memory, planning, and closed-loop behavior
-- Evaluate visual systems under distribution shift and deployment constraints, including robustness, calibration, selective prediction, efficiency, and failure modes
+- Explain how sensing, sampling, geometry, objectives, and optimization determine the information available to a visual system
+- Implement and analyze core visual learning methods, including local correspondence, classifiers, neural networks, CNNs, transformers, and pretrained encoders
+- Compare major visual pretraining objectives and select an appropriate interface for zero-shot use, probing, fine-tuning, or parameter-efficient adaptation
+- Formulate and evaluate detection, grounding, segmentation, video, three-dimensional, and generative vision tasks
+- Analyze and build multimodal, embodied, and vision-language-action systems in terms of architecture, data, grounding, memory, planning, action representation, and closed-loop behavior
+- Design controlled empirical comparisons and evaluate visual systems under distribution shift and deployment constraints, including robustness, reliability, efficiency, and failure analysis
 
 
 ## Syllabus and Schedule
 
-- 📄 **[Course Syllabus, Fall 2026](https://drive.google.com/file/d/1nqb98lybs5ldzCE6YnBMPzbd6Rw4pHV6/view?usp=sharing)**
+- 📄 **[Syllabus, Fall 2026](https://drive.google.com/file/d/1nqb98lybs5ldzCE6YnBMPzbd6Rw4pHV6/view?usp=sharing)**
 
 
 - 📅 **[Schedule, Fall 2026](https://docs.google.com/spreadsheets/d/111eG4u978Wp7S7L_sBrvYB6idERL9Y0UHhh1yS0Gg90/edit?usp=sharing)**
@@ -65,18 +67,18 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | 9  | \[GenAI\] Image/Video Generation and World Models |  |
 | 10 | \[MM\] Multimodal Reasoning |  |
 | 11 | \[Embodied\] Embodied Intelligence |  |
-| 12 | \[VAM\] Visual Action Models |  |
+| 12 | \[VLA\] Visual-Language-Action Models |  |
 | 13 | \[ReliableAI\] Reliability, Evaluation, and Deployment |  |
 
 
 ## Assignment Materials
 
-| Assignments | Topic/Section | Materials |
-|-----:|-------|--------|
-| HW1 | \[CV\] Local Evidence for Matching and Recognition |  |
-| HW2 | \[ML\] Loss, Optimization, and Generalization |  |
-| HW3 | \[Pretrain\] Pretrain Once, Adapt Many Ways |  |
-| HW4 | \[Seg\] From Segmentation to Promptable Perception |  |
-| HW5 | \[Video\] Learning from Time |  |
-| HW6 | \[VAM + ReliableAI\] Action Chunking Transformer for Reliable Visual Control |  |
+| Assignment | Topic/Section | Materials |
+|-----------:|---------------|-----------|
+| HW1 | \[CV\] + \[NN\] Visual Evidence and Learned Recognition | |
+| HW2 | \[Pretrain\] + \[VLM\] Pretrained Representations and Vision-Language Adaptation | |
+| HW3 | \[OD\] + \[Seg\] Detection, Grounding, and Promptable Segmentation | |
+| HW4 | \[Video\] + \[3D\] Learning from Time and Space | |
+| HW5 | \[GenAI\] + \[MM\] Generative Vision and Multimodal Evaluation | |
+| HW6 | \[Embodied\] + \[VLA\] + \[ReliableAI\] Embodied VLA and Reliable Visual Control | |
 
