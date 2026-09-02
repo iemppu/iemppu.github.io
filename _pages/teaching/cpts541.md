@@ -38,9 +38,12 @@ By the end of the course, students should be able to:
 - Evaluate visual systems under distribution shift and deployment constraints, including robustness, calibration, selective prediction, efficiency, and failure modes
 
 
-## Syllabus
+## Syllabus and Schedule
 
 - 📄 **[Course Syllabus, Fall 2026](https://drive.google.com/file/d/1nqb98lybs5ldzCE6YnBMPzbd6Rw4pHV6/view?usp=sharing)**
+
+
+- 📅 **[Schedule, Fall 2026](https://docs.google.com/spreadsheets/d/111eG4u978Wp7S7L_sBrvYB6idERL9Y0UHhh1yS0Gg90/edit?usp=sharing)**
 
 
 
@@ -52,7 +55,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | Unit | Topic | Slides |
 |-----:|-------|--------|
 | 1  | \[CV\] Visual Measurement, Matching, and Learning | [Slides](https://drive.google.com/file/d/1Q5fiIeemUEW00yZigx23Q_-BUiYvkOvy/view?usp=sharing)  |
-| 2  | \[NN\] Neural Networks, CNNs, and Vision Transformers |  |
+| 2  | \[NN\] Neural Networks, CNNs, and Vision Transformers | [Slides](https://drive.google.com/file/d/1MnRcAViMml1AzM_dU32_g6T1sKFMyDYl/view?usp=sharing) |
 | 3  | \[Pretrain\] Self-Supervised Visual Pretraining |  |
 | 4  | \[VLM\] Vision-Language Pretraining and Adaptation |  |
 | 5  | \[OD\] Object Detection and Visual Grounding |  |
