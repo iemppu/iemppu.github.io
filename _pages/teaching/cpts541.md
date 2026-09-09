@@ -75,7 +75,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 
 | Assignment | Topic/Section | Materials |
 |-----------:|---------------|-----------|
-| HW1 | \[CV\] + \[NN\] Visual Evidence and Learned Recognition | |
+| HW1 | \[CV\] + \[NN\] Visual Evidence and Learned Recognition | [Starter Code](https://colab.research.google.com/drive/16Mfow2y0Vy9xqjb4Q2_xcRNTnbqsoPAQ?usp=sharing) |
 | HW2 | \[Pretrain\] + \[VLM\] Pretrained Representations and Vision-Language Adaptation | |
 | HW3 | \[OD\] + \[Seg\] Detection, Grounding, and Promptable Segmentation | |
 | HW4 | \[Video\] + \[3D\] Learning from Time and Space | |
