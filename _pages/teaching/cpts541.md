@@ -59,7 +59,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | 1  | \[CV\] Visual Measurement, Matching, and Learning | [Slides](https://drive.google.com/file/d/1Q5fiIeemUEW00yZigx23Q_-BUiYvkOvy/view?usp=sharing)  |
 | 2  | \[NN\] Neural Networks, CNNs, and Vision Transformers | [Slides](https://drive.google.com/file/d/1MnRcAViMml1AzM_dU32_g6T1sKFMyDYl/view?usp=sharing) |
 | 3  | \[Pretrain\] Self-Supervised Visual Pretraining | [Slides](https://drive.google.com/file/d/1C14_6yXIlnc2I1_XPAXPEcNeKs-9Phr0/view?usp=sharing) |
-| 4  | \[VLM\] Vision-Language Pretraining and Adaptation | Slides](https://drive.google.com/file/d/1jozhTrhF03X2OtiVwm-u9BSx6lfx7aPb/view?usp=sharing) |
+| 4  | \[VLM\] Vision-Language Pretraining and Adaptation | [Slides](https://drive.google.com/file/d/1jozhTrhF03X2OtiVwm-u9BSx6lfx7aPb/view?usp=sharing) |
 | 5  | \[OD\] Object Detection and Visual Grounding |  |
 | 6  | \[Seg\] Segmentation and Promptable Perception |  |
 | 7  | \[Video\] Motion, Tracking, and Video Understanding |  |
