@@ -4,26 +4,25 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
-          {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
-            {% else %}
-              <div>{{- entry.abbr -}}</div>
-            {% endif %}
-          </abbr>
-        {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
-        {% endif %}
+        {% assign abbrs = entry.abbr | split: ',' %}
+        <div style="display: flex; flex-wrap: wrap; gap: 0.25rem; margin-bottom: 0.5rem;">
+          {% for raw_abbr in abbrs %}
+            {% assign abbr = raw_abbr | strip %}
+            {% assign venue = site.data.venues[abbr] %}
+            <abbr
+              class="badge rounded"
+              {% if venue and venue.color != blank %}
+                style="background-color: {{ venue.color }}"
+              {% endif %}
+            >
+              {% if venue and venue.url %}
+                <a href="{{ venue.url }}">{{ abbr }}</a>
+              {% else %}
+                <div>{{ abbr }}</div>
+              {% endif %}
+            </abbr>
+          {% endfor %}
+        </div>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
