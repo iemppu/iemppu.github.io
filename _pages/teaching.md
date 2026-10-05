@@ -21,8 +21,8 @@ Click each course for detailed information, including syllabus, schedule and res
 
 
 
--- [CPTS 541 Computer Vision](/teaching/cpts541/).
-   Fall, 2022 - 2025
+-- [CPTS 541 Computer Vision](/teaching/cpts541/) (CPTS 580, 2022 - 2025).
+   Fall, 2022 - 2026
 
 
 

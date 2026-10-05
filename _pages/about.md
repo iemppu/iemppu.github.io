@@ -11,12 +11,9 @@ profile:
   # image_circular: false # crops the image to make it circular
   more_info: >
     Office: EME 123<br>
-    Office Hour (Spring 2026): 11:30AM–12:30PM,<br>
-    Tue, 1/13 - 4/28<br>
+    Office Hour (Fall 2026): 12:30PM–1:30PM,<br>
+    Wed, 8/24 - 12/4<br>
     <a href="https://calendly.com/yanyan-tju/office-hour-spring-2026">Book An Office Hour</a><br><br>
-    <b>EECS Faculty Mentor Meeting:</b>
-          <a href="https://calendly.com/yanyan1/eecs-faculty-mentor-meeting-spring-2026">Book An EECS FM</a>,<br>
-          11:30AM-1:30PM, Wed/Thu, 3/25 - 4/2
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
