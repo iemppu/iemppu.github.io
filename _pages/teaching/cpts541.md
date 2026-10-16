@@ -63,7 +63,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | 5  | \[OD\] Object Detection and Visual Grounding | [Slides](https://drive.google.com/file/d/1_xzh1ge0J77jF4NiH-8RgoeAveyB_yyo/view?usp=sharing) |
 | 6  | \[Seg\] Segmentation and Promptable Perception | [Slides](https://drive.google.com/file/d/1ANRqh20YEF6jwCnFdFlfviGdH-uJBoYe/view?usp=sharing) |
 | 7  | \[Video\] Motion, Tracking, and Video Understanding | [Slides](https://drive.google.com/file/d/17dNB3OOEeTs79fiq6KUGBoqkHNpbxr9u/view?usp=sharing) |
-| 8  | \[3D\] Depth, 3D Vision, and Spatial Representation |  |
+| 8  | \[3D\] Depth, 3D Vision, and Spatial Representation | [Slides](https://drive.google.com/file/d/18Kv01ey9GjhBlW5UnacWkqQpVkZ4qqti/view?usp=sharing) |
 | 9  | \[GenAI\] Image/Video Generation and World Models |  |
 | 10 | \[MM\] Multimodal Reasoning |  |
 | 11 | \[Embodied\] Embodied Intelligence |  |
