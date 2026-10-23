@@ -78,7 +78,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | HW1 | \[CV\] + \[NN\] Visual Evidence and Learned Recognition | [Starter Code](https://colab.research.google.com/drive/16Mfow2y0Vy9xqjb4Q2_xcRNTnbqsoPAQ?usp=sharing) |
 | HW2 | \[Pretrain\] + \[VLM\] Pretrained Representations and Vision-Language Adaptation | [Starter Code](https://colab.research.google.com/drive/1hqaD0aDbL_NRmCaJDuGKh9IBnuLphm62?usp=sharing) |
 | HW3 | \[OD\] + \[Seg\] Detection, Grounding, and Promptable Segmentation | [Starter Code](https://colab.research.google.com/drive/1Pe1m-vzIltwes0b2EB5x_7kQ9t_h7DMp?usp=sharing) |
-| HW4 | \[Video\] + \[3D\] Learning from Time and Space | |
+| HW4 | \[Video\] + \[3D\] Learning from Time and Space | [Starter Code](https://drive.google.com/file/d/1WbjgilkMvbCDuSfRDcMHIKRoO1XvxzqV/view?usp=sharing) |
 | HW5 | \[GenAI\] + \[MM\] Generative Vision and Multimodal Evaluation | |
 | HW6 | \[Embodied\] + \[VLA\] + \[ReliableAI\] Embodied VLA and Reliable Visual Control | |
 
