@@ -65,7 +65,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | 7  | \[Video\] Motion, Tracking, and Video Understanding | [Slides](https://drive.google.com/file/d/17dNB3OOEeTs79fiq6KUGBoqkHNpbxr9u/view?usp=sharing) |
 | 8  | \[3D\] Depth, 3D Vision, and Spatial Representation | [Slides](https://drive.google.com/file/d/18Kv01ey9GjhBlW5UnacWkqQpVkZ4qqti/view?usp=sharing) |
 | 9  | \[GenAI\] Image/Video Generation and World Models | [Slides](https://drive.google.com/file/d/1FoXJTib8QsTIxm3ymCeeOBI2QSwfx8Pi/view?usp=sharing) |
-| 10 | \[MM\] Multimodal Reasoning | [Slides](https://docs.google.com/presentation/d/1NIm9oIk_8gBd2hCt7ehxEp3py9Y2CvTU/edit?usp=sharing&ouid=106020371474541304772&rtpof=true&sd=true) |
+| 10 | \[MM\] Multimodal Reasoning | [Slides](https://drive.google.com/file/d/1LPrbZNtyjM4r6NGLtah4nM0hXO9TLbNh/view?usp=sharing) |
 | 11 | \[Embodied\] Embodied Intelligence |  |
 | 12 | \[VLA\] Visual-Language-Action Models |  |
 | 13 | \[ReliableAI\] Reliability, Evaluation, and Deployment |  |
