@@ -67,7 +67,7 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | 9  | \[GenAI\] Image/Video Generation and World Models | [Slides](https://drive.google.com/file/d/1FoXJTib8QsTIxm3ymCeeOBI2QSwfx8Pi/view?usp=sharing) |
 | 10 | \[MM\] Multimodal Reasoning | [Slides](https://drive.google.com/file/d/1LPrbZNtyjM4r6NGLtah4nM0hXO9TLbNh/view?usp=sharing) |
 | 11 | \[Embodied\] Embodied Intelligence | [Slides](https://drive.google.com/file/d/1uFQWUsMKmFVG9H9HZT-zXpSIIcsXAtx_/view?usp=sharing) |
-| 12 | \[VLA\] Visual-Language-Action Models |  |
+| 12 | \[VLA\] Visual-Language-Action Models | [Slides](https://drive.google.com/file/d/1l_1lN5P7_9J7QS3Vbo4NO-N25uHFGWgN/view?usp=sharing) |
 | 13 | \[ReliableAI\] Reliability, Evaluation, and Deployment |  |
 
 
@@ -79,6 +79,6 @@ The calendar schedule, including holidays and presentation dates, is provided in
 | HW2 | \[Pretrain\] + \[VLM\] Pretrained Representations and Vision-Language Adaptation | [Starter Code](https://colab.research.google.com/drive/1hqaD0aDbL_NRmCaJDuGKh9IBnuLphm62?usp=sharing) |
 | HW3 | \[OD\] + \[Seg\] Detection, Grounding, and Promptable Segmentation | [Starter Code](https://colab.research.google.com/drive/1Pe1m-vzIltwes0b2EB5x_7kQ9t_h7DMp?usp=sharing) |
 | HW4 | \[Video\] + \[3D\] Learning from Time and Space | [Starter Code](https://drive.google.com/file/d/1WbjgilkMvbCDuSfRDcMHIKRoO1XvxzqV/view?usp=sharing) |
-| HW5 | \[GenAI\] + \[MM\] Generative Vision and Multimodal Evaluation | |
-| HW6 | \[Embodied\] + \[VLA\] + \[ReliableAI\] Embodied VLA and Reliable Visual Control | |
+| HW5 | \[GenAI\] + \[MM\] Generative Vision and Multimodal Evaluation | [Starter Code](https://colab.research.google.com/drive/1f3Lmjjyq-tjs5fGTB964BBA_shgqB834?usp=sharing) |
+| HW6 | \[Embodied\] + \[VLA\] + \[ReliableAI\] Embodied VLA and Reliable Visual Control | [Starter Code](https://drive.google.com/file/d/1jRbKKKMF8KsFlXbjR6yKg9wN5tRxrn3q/view?usp=sharing) |
 
